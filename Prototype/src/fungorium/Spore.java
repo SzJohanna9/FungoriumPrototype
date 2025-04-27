@@ -15,10 +15,6 @@ public abstract class Spore {
 
     public abstract int gotEatenBy(Insect i);
 
-    public int getNutrientContent() {
-        return this.nutrientContent;
-    }
-
     public String getName() {
         return this.name;
     }
