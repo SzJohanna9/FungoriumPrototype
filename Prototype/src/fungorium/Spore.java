@@ -22,7 +22,7 @@ public abstract class Spore {
     public String sporeToString(String sporeType) {
         String returnString = "\tSpore name: ";
         returnString += this.name;
-        returnString += "\n\tSpore's type: ";
+        returnString += "\n\tSpore type: ";
         returnString += sporeType;
         returnString += "\n\tSpore's nutrient content: ";
         returnString += this.nutrientContent;

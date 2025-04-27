@@ -13,7 +13,7 @@ public class OrdinarySpore extends Spore {
 
     @Override
     public String toString() {
-        return sporeToString("Ordinary spore");
+        return sporeToString("ordinary spore");
     }
 
 }

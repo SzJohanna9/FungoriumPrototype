@@ -14,6 +14,6 @@ public class InsectDuplicatorSpore extends Spore {
 
     @Override
     public String toString() {
-        return sporeToString("Insect duplicator spore");
+        return sporeToString("insect duplicator spore");
     }
 }

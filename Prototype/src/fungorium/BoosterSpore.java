@@ -14,6 +14,6 @@ public class BoosterSpore extends Spore {
 
     @Override
     public String toString() {
-        return sporeToString("Booster spore");
+        return sporeToString("booster spore");
     }
 }
