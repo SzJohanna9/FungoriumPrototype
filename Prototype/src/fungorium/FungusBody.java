@@ -77,7 +77,7 @@ public class FungusBody {
 
     @Override
     public String toString() {
-        String returnString = "FungusBody: ";
+        String returnString = "FungusBody : ";
         returnString += "\nMycelium: ";
         returnString += mycelium;
         returnString += "\nRemainingSpores: ";

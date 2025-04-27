@@ -14,7 +14,7 @@ public class AntiSeverSpore extends Spore {
 
     @Override
     public String toString() {
-        return sporeToString("antisever spore");
+        return sporeToString("Antisever spore");
     }
 
 }
